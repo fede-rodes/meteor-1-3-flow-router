@@ -1,3 +1,6 @@
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/fede-rodes/meteor-1-3-flow-router.svg)](https://greenkeeper.io/)
+
 1. meteor npm install
 2. meteor npm install --save react react-dom react-router
 3. meteor npm install --save-dev eslint eslint-plugin-react eslint-plugin-meteor eslint-config-airbnb
